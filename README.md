@@ -14,6 +14,9 @@ This project implements a TCP-based reverse shell in C, consisting of:
 
 ## File Structure
 
+client: revshell_client.c
+server: revshell_server_v3.c
+Makefile: Includes build and clean commands
 
 ## Build Instructions
 
